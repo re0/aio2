@@ -1,18 +1,4 @@
 {
-  "mtu": 1350,
-  "tti": 20,
-  "uplinkCapacity": 5,
-  "downlinkCapacity": 20,
-  "congestion": false,
-  "readBufferSize": 1,
-  "writeBufferSize": 1,
-  "header": {
-    "type": "none"
-  }
-}
-
-
-{
   "log":{
       "access":"/dev/null",
       "error":"/dev/null",
